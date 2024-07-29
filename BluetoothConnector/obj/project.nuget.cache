@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I1oEGqM1ZutN2vxDg8BHYufMw4QsiI9EFjsYIGa/ycH04vE+1uznvsQHlMDNRX5+ma7DLB3xfAbktdoXLPoRmw==",
+  "success": true,
+  "projectFilePath": "P:\\BluetoothConnector\\BluetoothConnector\\BluetoothConnector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Janis\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\Janis\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

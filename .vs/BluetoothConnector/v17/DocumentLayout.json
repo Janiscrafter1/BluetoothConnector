@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\BluetoothConnector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB250DB-6AA0-4485-804B-175ECF79CAA7}|BluetoothConnector\\BluetoothConnector.csproj|p:\\bluetoothconnector\\bluetoothconnector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB250DB-6AA0-4485-804B-175ECF79CAA7}|BluetoothConnector\\BluetoothConnector.csproj|solutionrelative:bluetoothconnector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\BluetoothConnector\\BluetoothConnector\\Program.cs",
+              "RelativeDocumentMoniker": "BluetoothConnector\\Program.cs",
+              "ToolTip": "P:\\BluetoothConnector\\BluetoothConnector\\Program.cs",
+              "RelativeToolTip": "BluetoothConnector\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:48:09.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
